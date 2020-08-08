@@ -72,7 +72,7 @@ aws-cli/1.16.62 Python/3.6.2 Darwin/16.7.0 botocore/1.12.52
 1. To edit the Git configuration file, use a plain\-text editor or run the following command:
 
    ```
-   $ nano /usr/local/git/etc/gitconfig
+   $ nano /usr/local/etc/gitconfig
    ```
 
 1. Comment out the following line of text:
